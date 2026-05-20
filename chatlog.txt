@@ -1,0 +1,474 @@
+[17:30:36] {FFFFFF}SA-MP {B9C9BF}0.3.7-R5 {FFFFFF}Started
+[17:30:39] Connecting to 178.32.234.16:7777...
+[17:30:40] Connected. Joining the game...
+[17:30:45] Connected to {B9C9BF}[ENG] WTLS 2 - 2x more XP and RP
+[17:30:46] {CB3694}Welcome to GTA-MP.CZ server!
+[17:30:46] {CB3694}You are logged in! Have a lot of fun on our server.
+[17:30:46] {CB3694}There are 0 of your friends logged in now!
+[17:30:51] {F0F0F0}BurgerGuy17 (307): {FFFFFF}car people break 
+[17:30:52] {92C83E}Minigun (10 ammo) has been sold to Rudy_ for $155,000
+[17:30:55] {BBD65B}LGBEST33 (223) (LOCAL): {FEF4CD}XDDD 
+[17:30:55] {F0F0F0}Emperor_Reede (287) (LOCAL): {FFFFFF}yo 
+[17:30:57] {BA9D7D}TheSheriff (20): {FFFFFF}all players run and hide 
+[17:31:02] {F0F0F0}BurgerGuy17 (307): {FFFFFF}xd 
+[17:31:07] {E03232}TheChosenOne has been kicked for inactivity
+[17:31:07] {F0F0F0}AdanJeroek (337): {FFFFFF}./flist 
+[17:31:09] {30FFFF}Event begins!
+[17:31:17] {F0F0F0}AdanJeroek (337): {FFFFFF}./friendlist 
+[17:31:20] {F79F7B}Ravikx_Playz (214): {FFFFFF}guys go up 
+[17:31:28] {F0F0F0}Sajid (227): {FFFFFF}how do i ask for my friends pos again 
+[17:31:29] {F0F0F0}[LSPD]T_Dup (269): {D3ECF8}no guys, go down 
+[17:31:30] {D3D1E7}Yes (189) (LOCAL): {FFDACC}bro 
+[17:31:33] {D3D1E7}Yes (189) (LOCAL): {FFDACC}this skin lmao 
+[17:31:36] {F0F0F0}Sajid (227): {FFFFFF}its a command and their id i forgot 
+[17:31:40] {9C6EAF}Burt (275) (LOCAL): {FFFFFF}bro 
+[17:31:41] {D3D1E7}Yes (189) (LOCAL): {FFDACC}it is so scuffed 
+[17:31:41] {F0F0F0}BurgerGuy17 (307): {FFFFFF}Why go down 
+[17:31:42] {9C6EAF}Mr_lucifer (305) (GLOBAL): {DCD5F6}thankyou officer 
+[17:31:43] {B26287}Ezio (60): {FECDEC}Er8eenx /sendpos id ? 
+[17:31:48] {D3D1E7}Yes (189) (LOCAL): {FFDACC}it actually cracked me 
+[17:31:49] {D3D1E7}Yes (189) (LOCAL): {FFDACC}up 
+[17:31:51] {9C6EAF}Burt (275) (LOCAL): {FFFFFF}im the toreno 
+[17:31:57] {2D6EB9}TERIMAUT (252) (GLOBAL): {DAF1DA}yo 
+[17:31:58] {F0F0F0}Satoshi_Nakamoto (258) (LOCAL): {FFFFFF}blud 
+[17:32:03] {F0F0F0}BurgerGuy17 (307): {FFFFFF}all go together 
+[17:32:04] {92C83E}walter_silva started auction: 200 grams of cocaine with starting price $190,000
+[17:32:04] {92C83E}Make a bid: /bid
+[17:32:11] {F0F0F0}Varenis (89): {FFFFFF}You should evade at us next time legend 
+[17:32:18] {30FFFF}somi1127 started stunt challenge BMX Challenge for $10,000
+[17:32:18] {30FFFF}Type /stunt to join
+[17:32:22] {F0F0F0}Davoos (17): {FFFFFF}selling tokens /market 
+[17:32:23] {F0F096}Tyrant_ (316): {FEF4CD}ttt 
+[17:32:50] {92C83E}200 grams of cocaine have been sold to mrsdgm for $210,000
+[17:32:53] {30FFFF}Rudy_ started pool game for $1,000,000
+[17:32:53] {30FFFF}Type /pool to join
+[17:33:00] {E03232}[TPR]Kitana has been kicked for high packetloss
+[17:33:03] {BA9D7D}Danny. (70): {FEF4CD}t 
+[17:33:03] {FF8555}You can steal goods from train
+[17:33:17] {F0F0F0}Tony_Leet (303): {FFFFFF}okay 
+[17:33:24] {F0F0F0}Bxg_IND (301): {FFFFFF}fshit 
+[17:33:29] {00AAFF}RUSH. (195): {DCD5F6}t 
+[17:33:30] {BA9D7D}UzAiR (186): {DCD5F6}Maahi once again bruh 
+[17:33:31] {E03232}OGLoc has been kicked for lags
+[17:33:32] {F0F0F0}Bxg_IND (301): {FFFFFF}how to use lawyer 
+[17:33:35] {00AAFF}RUSH. (195): {DCD5F6}oh *** 
+[17:33:37] {2D6EB9}TERIMAUT (252): {DAF1DA}:) 
+[17:33:39] {F0F0F0}[LSPD]T_Dup (269): {D3ECF8}i got one! 
+[17:33:40] {00FFFF}MoHaMeD (320): {DAF1DA}ahahahahah kiced oglock 
+[17:33:41] {00AAFF}RUSH. (195): {DCD5F6}t 
+[17:33:43] {B26287}Ezio (60): {FECDEC}Bxg_IND press LALT 
+[17:33:49] {F0F0F0}Varenis (89): {FFFFFF}Bxg_IND stand near the lawyer car and press left alt 
+[17:33:50] {F0F0F0}Bxg_IND (301): {FFFFFF}Ezio thanks 
+[17:33:53] {E03232}Lsa99245 has been kicked for lags
+[17:33:55] {F0C850}Message for Burt (275): hi, can i get invited to the org again or is it only baymax who
+[17:33:55] {F0C850}can do that 
+[17:33:55] {30FFFF}TheSheriff is the event winner
+[17:33:55] {30FFFF}D3f4ult is the event winner
+[17:33:55] {30FFFF}WilliamArthur is the event winner
+[17:33:55] {30FFFF}Valkyrie. is the event winner
+[17:33:55] {30FFFF}Danny. is the event winner
+[17:33:55] {30FFFF}torgal is the event winner
+[17:33:55] {30FFFF}Abdelrahman is the event winner
+[17:33:55] {30FFFF}KuroDIABLO is the event winner
+[17:33:55] {30FFFF}[LSPD]T_Dup is the event winner
+[17:33:55] {30FFFF}xORABIx is the event winner
+[17:33:55] {30FFFF}Maahi is the event winner
+[17:33:55] {30FFFF}BurgerGuy17 is the event winner
+[17:33:56] {B26287}Ezio (60): {FECDEC}np 
+[17:33:57] {F0F0F0}BurgerGuy17 (307): {FFFFFF}EZZ 
+[17:34:03] {E03232}WilliamArthur has been kicked for lags
+[17:34:04] {BA9D7D}TheSheriff (20): {FFFFFF}nice boys 
+[17:34:07] {867D8D}There will be storage locker auction at Linden Side in 5 minutes!
+[17:34:07] {867D8D}There will be storage locker auction at Santa Maria Beach in 15 minutes!
+[17:34:08] {F79F7B}Rudy_ (276): {D0FBF3}._. 
+[17:34:08] {F0F0F0}BurgerGuy17 (307): {FFFFFF}44K 
+[17:34:22] {F0F0F0}BurgerGuy17 (307): {FFFFFF}FR 
+[17:34:50] {F0F0F0}[LSPD]T_Dup (269) (LOCAL): {D3ECF8}let me in, dude 
+[17:34:50] {00FFFF}MoHaMeD (320): {DAF1DA}[VLA]MaLekxAngelz it was a luck shoot 
+[17:34:50] {F0F0F0}Davoos (17): {FFFFFF}selling tokens /market 
+[17:34:50] {F0F0F0}[LSPD]T_Dup (269) (LOCAL): {D3ECF8}you're a millionaire 
+[17:34:50] {F0F0F0}VKPros01 (328) (LOCAL): {FFFFFF}Fahhhhhhh 
+[17:34:50] {808080}Danny. (70): {FEF4CD}we need events like cops & crooks 
+[17:34:50] {30FFFF}Toxic.North started pool game for $10,000
+[17:34:50] {30FFFF}Type /pool to join
+[17:34:50] {F0F0F0}PLAYER_1 (87) (GLOBAL): {FFFFFF}how to locate cargo ship 
+[17:34:50] {F0F0F0}BurgerGuy17 (307): {FFFFFF}guys how get hydra 
+[17:34:50] {2D6EB9}torgal (111): {FFFFFF}lol 
+[17:34:50] {808080}Danny. (70): {FEF4CD}or bomb da base 
+[17:34:50] {BA9D7D}TheSheriff (20): {FFFFFF}my taxi driver got out and started shooting people then was arrested 
+[17:34:52] {F0F0F0}VKPros01 (328): {FFFFFF}10 cops on 1 player  
+[17:34:59] {F0F096}Tyrant_ (316): {FEF4CD}sy 
+[17:35:00] {2D6EB9}[LSPD]T_Dup (269): {D3ECF8}TheSheriff average day in america 
+[17:35:18] {FF8555}Most gang races won: SystemERROR (531)
+[17:35:18] {8466E2}Daily objective for today: Earn 5 burglar skills
+[17:35:18] {CB3694}Play 4 hours non-stop and you will unlock 10% bonus!
+[17:35:18] {E03232}Administrator MinaTo has muted lina.: You must not defame, swear, harass
+[17:35:18] {BA9D7D}TheSheriff (20): {FFFFFF}hahaha 
+[17:35:18] {9C6EAF}Maahi (293): {FFDACC}BurgerGuy17: Hydra can be purchased at Computer > Warstock page (level 50
+[17:35:18] {FFDACC}required). Also from /shop > Vehicles using /tokens. 
+[17:35:18] {9C6EAF}Caveman (261): {DCD5F6}TheSheriff average taxi experience in east asia 
+[17:35:18] {F0F0F0}ali (334): {FFFFFF}do you look any bus 
+[17:35:18] {F0F0F0}BurgerGuy17 (307): {FFFFFF}oh man gift me 
+[17:35:18] {BA9D7D}TheSheriff (20): {FFFFFF}lol 
+[17:35:18] {FF8000}Ogloc_Wrzosek (202): {FFFFFF}ttt 
+[17:35:23] {F0F0F0}Monomous (242): {FFFFFF}the legendary admin is back guys xd MinaTo the great  
+[17:35:26] {F79F7B}Rudy_ (276): {D0FBF3}can't 
+[17:35:28] {FF8000}MinaTo (309): {FEF4CD}i hate to break it to u Rudy but u need to relog 
+[17:35:29] {92C83E}Circumcision started auction: Minigun (500 ammo) with starting price $11,000,000
+[17:35:29] {92C83E}Make a bid: /bid
+[17:35:31] {2D6EB9}D3f4ult (27) (GLOBAL): {DCD5F6}Selling FT Police Rangers 145/241 & 190/220 || FT FBI Rancher
+[17:35:31] {DCD5F6}166/1 || FT Rustler With Explosives /pm me 
+[17:35:35] {F0F0F0}Davoos (17): {FFFFFF}selling tokens /market 
+[17:35:40] {BA9D7D}UzAiR (186): {DCD5F6}KOMODOR64 dont for 50k 
+[17:35:46] {2D6EB9}KOMODOR64 (253): {FECDEC}okey 
+[17:35:52] {BA9D7D}UzAiR (186): {DCD5F6}let us evade than i cash 
+[17:36:00] {BA9D7D}TheSheriff (20): {FFFFFF}all player run and hide in your homes 
+[17:36:01] {F0A000}Caveman (261) started vote: u love parkour event?
+[17:36:01] {F0A000}Vote /yes or /no
+[17:36:04] {867D8D}There will be storage locker auction at Commerce in 15 minutes!
+[17:36:08] {BA9D7D}UzAiR (186): {DCD5F6}here you go 
+[17:36:08] {F0F0F0}Salondryas (25): {FFFFFF} /YE 
+[17:36:16] {2D6EB9}KOMODOR64 (253): {FECDEC}ty 
+[17:36:17] {F0F0F0}BurgerGuy17 (307): {FFFFFF}bruh 500 pilot 
+[17:36:18] {F0F0F0}AsAs (208): {FFFFFF} /yes 
+[17:36:18] {F0F0F0}OG. (13): {FFFFFF}how do i go afk? 
+[17:36:18] {808080}Danny. (70): {FEF4CD} /pvp 
+[17:36:25] {F79F7B}Ravikx_Playz (214): {FFFFFF}1 
+[17:36:25] {F0F0F0}BurgerGuy17 (307): {FFFFFF}go window screen  
+[17:36:26] {9C6EAF}Burt (275): {FFFFFF}im about to kill myself 
+[17:36:27] {92C83E}Minigun (500 ammo) has been sold to vesna1973 for $12,000,000
+[17:36:29] {2D6EB9}KOMODOR64 (253): {FECDEC}ovo no brain 
+[17:36:30] {30FFFF}$$A7MeD_ElmaYstrO$$ started team deathmatch Los Sepulcros for $10,000
+[17:36:30] {30FFFF}Type /tdm to join
+[17:36:31] {9C6EAF}Burt (275): {FFFFFF}better move from the explosive area 
+[17:36:32] {F0A000}Vote is over: u love parkour event? YES:4 NO:8
+[17:36:37] {F0F0F0}gttap_ffm (270): {FFFFFF}: 
+[17:36:42] {9C6EAF}Burt (275): {FFFFFF}Persona 
+[17:36:44] {E03232}KING_king has been kicked for lags
+[17:36:50] {F0F0F0}Jack$ (209): {FFFFFF}need partner security bank in ls 
+[17:36:51] {F0F0F0}BurgerGuy17 (307): {FFFFFF}do some water fight event 
+[17:36:58] {E03232}Bxg_IND has been kicked for high packetloss
+[17:37:00] {F0A000}$$A7MeD_ElmaYstrO$$ (213) started vote: have you ever done piggyback on beach girls?
+[17:37:00] {F0A000}Vote /yes or /no
+[17:37:08] {CB3694}We also have FiveM server for GTA 5! You can find address on our web GTA-MP.CZ!
+[17:37:16] {6AC4BF}Smallville (21): {F8D3D3}hehehe, loserrrrrrrrrr.......... 
+[17:37:17] {2D6EB9}Sobek (34): {DCD5F6} /cancel 
+[17:37:20] {F0F0F0}tedi.44 (282): {FFFFFF}yy 
+[17:37:21] {F0F0F0}hitaro1pogi (210): {FFFFFF}yo carefull outhere hentaivirus is spreadin  
+[17:37:31] {F0A000}Vote is over: have you ever done piggyback on beach girls? YES:2 NO:2
+[17:37:34] {BA9D7D}TheSheriff (20): {FFFFFF}hantavirus in ocean docks 
+[17:37:35] {F0A000}Negan.lm9wd (45) started vote: 80% OR MORE OF PLAYERS CHEATS
+[17:37:35] {F0A000}Vote /yes or /no
+[17:37:40] {F0F0F0}BigZin (296): {FFFFFF}do ur bloody job cops 
+[17:37:46] {2D6EB9}Zaidy (31) (LOCAL): {DAF1DA}gg 
+[17:37:46] {F0F0F0}_viP]Kokos (241): {FFFFFF}hitaro1pogi hope hentavirus be in india much as possible <3 
+[17:37:48] {F0F0F0}Davoos (17): {FFFFFF}selling tokens /market 
+[17:37:49] {F0F0F0}BigZin (296): {FFFFFF}u arrest for acciedental 1 stars  
+[17:37:51] {30FFFF}Rudy_ started pool game for $1,000,000
+[17:37:51] {30FFFF}Type /pool to join
+[17:37:52] {F0F0F0}Varenis (89): {FFFFFF}What is this blue zone at LSPD  
+[17:37:52] {2D6EB9}Yes (189): {FFDACC} /including you 
+[17:37:52] {30FFFF}Frost_ started destruction derby Bloodring for $10,000
+[17:37:52] {30FFFF}Type /derby to join
+[17:37:55] {30FFFF}D3f4ult started survival Pershing Square
+[17:37:55] {30FFFF}Type /survival to join
+[17:37:56] {2D6EB9}Obito (306): {D0FBF3} /_Bull_  aimbot clip refused from admins 
+[17:38:01] {F79F7B}Ravikx_Playz (214): {FFFFFF}can u stand here 
+[17:38:03] {F79F7B}Ravikx_Playz (214): {FFFFFF}? 
+[17:38:04] {30FFFF}$$A7MeD_ElmaYstrO$$ started team deathmatch Los Sepulcros for $10,000
+[17:38:04] {30FFFF}Type /tdm to join
+[17:38:06] {F0A000}Vote is over: 80% OR MORE OF PLAYERS CHEATS YES:8 NO:1
+[17:38:07] {F0F0F0}ali (334): {FFFFFF}you need this 
+[17:38:07] {F0F0F0}BigZin (296): {FFFFFF}but then cant stop a truck robbery to save ur life. useless cops 
+[17:38:10] {F0F0F0}Evan77 (314): {FFFFFF}hmmm guys ... 
+[17:38:11] {F0F0F0}hitaro1pogi (210): {FFFFFF}kokos do you hate the indian? 
+[17:38:13] {BA9D7D}UzAiR (186): {DCD5F6}Burt hey 
+[17:38:14] {F0F0F0}Lovrek (217) (GLOBAL): {FFFFFF}selling 1835 gram cocaine 
+[17:38:16] {F0F0F0}_viP]Kokos (241): {FFFFFF}ofc 
+[17:38:17] {9C6EAF}Burt (275): {FFFFFF}hi 
+[17:38:21] {F0C850}Message for Burt (275): hi, can you invite me to royals or does it have to be baymax 
+[17:38:23] {F0F0F0}Evan77 (314): {FFFFFF}can someone lend me 3,500 for a purchase 
+[17:38:30] {BA9D7D}TheSheriff (20): {FFFFFF}where my balkans at cuhh 
+[17:38:30] {AA0000}Ogloc_Wrzosek (202): {FFFFFF}ttt 
+[17:38:32] {F0F0F0}tedi.44 (282): {FFFFFF}fuh naw 
+[17:38:32] {BA9D7D}UzAiR (186): {DCD5F6}how you doing 
+[17:38:34] {BA9D7D}TheSheriff (20): {FFFFFF}how we doin 
+[17:38:38] {F0F0F0}tedi.44 (282): {FFFFFF}go work 
+[17:38:39] {F0F0F0}hitaro1pogi (210): {FFFFFF}kokos what do you hate about them? 
+[17:38:39] {2D6EB9}Chief of Police Obito (306): stolen 
+[17:38:47] {F0F0F0}mrsdgm (255): {FFFFFF} /taxi in ls 
+[17:38:48] {908E7A}Negan.lm9wd (45): {FEF4CD}Obito i got many clips on some admins themselves cheats but.. 
+[17:38:48] {F0F0F0}_viP]Kokos (241): {FFFFFF}they smell ugly steal, more? 
+[17:38:58] {F0F0F0}Bxg_IND (330): {FFFFFF}. 
+[17:38:59] {F0F0F0}BurgerGuy17 (307): {FFFFFF}where r u from then 
+[17:39:00] {F0C850}Message for Burt (275): cooldown have to wait 47 mins 
+[17:39:04] {F0F0F0}_viP]Kokos (241): {FFFFFF}Bulgaria 
+[17:39:04] {867D8D}There will be storage locker auction at Santa Maria Beach in 10 minutes!
+[17:39:04] {FF8555}You can start missions at Catalina's hideout in Fern Ridge
+[17:39:05] {F0C850}Message from Burt (275): k 
+[17:39:06] {AA0000}Ogloc_Wrzosek (202): {FFFFFF}tttt 
+[17:39:07] {F0F0F0}BurgerGuy17 (307): {FFFFFF}ew 
+[17:39:13] {F0F0F0}mrsdgm (255): {FFFFFF} /taxi 
+[17:39:15] {F0F0F0}_viP]Kokos (241): {FFFFFF}BurgerGuy17 u prob indian... 
+[17:39:16] {30FFFF}Frost_ started destruction derby Bloodring for $50,000
+[17:39:16] {30FFFF}Type /derby to join
+[17:39:22] {F0C850}Message from Burt (275): one more thing i dont think i can accept your chances anymore
+[17:39:22] {F0C850}im sorry if this hurt 
+[17:39:31] {2D6EB9}torgal (111): {FFFFFF}buying colored lspd or sfpd 
+[17:39:32] {F0F0F0}BurgerGuy17 (307): {FFFFFF}i bet u saying taht from js social media and never visited 
+[17:39:35] {F0F0F0}Davoos (17): {FFFFFF}selling tokens /market 
+[17:39:38] {BA9D7D}TheSheriff (20): {FFFFFF}San Andreas Air Show is active above LSPD 
+[17:39:44] {F0C850}Message for Burt (275): its your choice 
+[17:39:49] {F0F0F0}_viP]Kokos (241): {FFFFFF}BurgerGuy17 u say it's true because u don't say me im a liar 
+[17:39:52] {30FFFF}Frost_ started destruction derby Bloodring for $20,000
+[17:39:52] {30FFFF}Type /derby to join
+[17:39:56] {F0F0F0}BurgerGuy17 (307): {FFFFFF}wow biased 
+[17:39:57] {E03232}Kr4ked_ has been kicked for high ping
+[17:40:06] {F0F0F0}_Jenny_ (294): {FFFFFF}torgal say what! 
+[17:40:08] {908E7A}sayoda (227): {FFFFFF}t 
+[17:40:08] {F0F0F0}AsAs (208): {FFFFFF} /admin 
+[17:40:10] {92C83E}Obito started auction: 10 BZ gas grenades with starting price $300,000
+[17:40:10] {92C83E}Make a bid: /bid
+[17:40:12] {2D6EB9}torgal (111): {FFFFFF}what 
+[17:40:24] {F0F0F0}_Jenny_ (294): {FFFFFF}torgal /fu bot 
+[17:40:29] {E03232}Lovrek has been kicked for high packetloss
+[17:40:34] {6AC4BF}Obito (306): {D0FBF3} /bid bzgas 30k per 
+[17:40:36] {F0F0F0}Jack$ (209): {FFFFFF}buy huntler full amour 
+[17:40:36] {6AC4BF}Obito (306): {D0FBF3}stronger than mgs 
+[17:40:41] {CDCDCD}Brapo (1153):{ffffff} Finish Web lotto 
+[17:40:41] {F79F7B}Ravikx_Playz (214): {FFFFFF}m from pakistan 
+[17:40:42] {92C83E}Auction is over
+[17:40:52] {F0F0F0}Talharealhacker (91): {FFFFFF}i am also 
+[17:41:01] {867D8D}There will be storage locker auction at Commerce in 10 minutes!
+[17:41:01] {FF8555}Most M4 kills: HitMan (7,317)
+[17:41:02] {F0F0F0}BurgerGuy17 (307): {FFFFFF}HH Neighbour 
+[17:41:08] {F0F0F0}Talharealhacker (91): {FFFFFF}.gps 
+[17:41:19] {808080}Danny. (70): {FEF4CD}LMAO 
+[17:41:19] {00FFFF}KuroDIABLO (246): {FFFFFF}bruh 
+[17:41:21] {E03232}Message has been blocked
+[17:41:22] {00FFFF}KuroDIABLO (246): {FFFFFF}xdd 
+[17:41:23] {E03232}Frost_ has been kicked for 5 minutes for being suspected of cheats
+[17:41:26] {00FFFF}KuroDIABLO (246): {FFFFFF}did u see that plane 
+[17:41:26] {9C6EAF}Burt (275): {FFFFFF}Torgalll 
+[17:41:28] {30FFFF}AZE started deathmatch Yay Ka-Boom-Boom for $10,000
+[17:41:28] {30FFFF}Type /dm to join
+[17:41:30] {808080}Danny. (70): {FEF4CD}yeah 
+[17:41:31] {9C6EAF}Burt (275): {FFFFFF}Im gonna kill u 
+[17:41:34] {00FFFF}KuroDIABLO (246): {FFFFFF}lmao 
+[17:41:37] {F0F0F0}Sigma1 (120): {FFFFFF}./re ku 
+[17:41:40] {2D6EB9}torgal (111): {FFFFFF}bring it on 
+[17:41:41] {E03232}TRAN_TUAN has been kicked for high packetloss
+[17:41:45] {9C6EAF}Burt (275): {FFFFFF}u 
+[17:41:45] {F0F0F0}BurgerGuy17 (307): {FFFFFF}sheriff u bombing lspd? 
+[17:41:51] {FF8555}You have quit the job
+[17:41:51] {F0F0F0}Evan77 (314): {FFFFFF}I need 3,500$ for a purchase, can someone give me some 
+[17:42:50] {F0F0F0}svago (223): {FFFFFF}yea 
+[17:42:50] Lost connection to the server. Reconnecting..
+[17:42:50] The server is restarting..
+[17:42:50] Connecting to 178.32.234.16:7777...
+[17:42:53] Connected. Joining the game...
+[17:42:58] Connected to {B9C9BF}[ENG] WTLS 2 - 2x more XP and RP
+[17:42:58] {CB3694}Welcome to GTA-MP.CZ server!
+[17:42:58] {CB3694}You are logged in! Have a lot of fun on our server.
+[17:42:59] {CB3694}There are 0 of your friends logged in now!
+[17:42:59] {CB3694}Register at GTA-MP.CZ and link your game account to get $500,000 on the server!
+[17:43:01] {30FFFF}Mukz9898 started deathmatch Just Business for $20,000
+[17:43:01] {30FFFF}Type /dm to join
+[17:43:09] {F0F0F0}BurgerGuy17 (307): {FFFFFF}anyone WANT GOkart 
+[17:43:13] {F0F0F0}SAS0KI (72): {FFFFFF}i'm in Lzss vigzss 
+[17:43:22] {30FFFF}AsAs started poker game for $500,000
+[17:43:22] {30FFFF}Type /poker to join
+[17:44:31] {F79F7B}Cherry.Blossom (4) (GLOBAL): {F8D3D3}Hee-Hee 
+[17:44:31] {00FFFF}MoHaMeD (320): {DAF1DA}MinaTo it was a lucky shoot got on you i am in ammu for another reason 
+[17:44:31] {FF7BC4}ovo (289): {D3ECF8}bilu bilu 
+[17:44:31] {30FFFF}ElBananero_Uruguay started shooting challenge for $10,000
+[17:44:31] {30FFFF}Type /shooting to join
+[17:44:31] {F0F0F0}BurgerGuy17 (307): {FFFFFF}BRO wth 
+[17:44:31] {F0F0F0}Jack$ (209): {FFFFFF}eve i swear kill u 100x 
+[17:44:31] {F0F0F0}BurgerGuy17 (307): {FFFFFF}i got it gift 
+[17:44:31] {F0F0F0}Er8eenx (229): {FFFFFF}chill 
+[17:44:31] {9C6EAF}Burt (275): {FFFFFF}how the hell did you pyschopath 
+[17:44:31] {FF7BC4}ovo (289): {D3ECF8}XD eve 
+[17:44:31] {867D8D}There will be storage locker auction at Santa Maria Beach in 5 minutes!
+[17:44:31] {F0F0F0}BurgerGuy17 (307): {FFFFFF}bro someone arrested me for driving a gokart so sad 
+[17:44:31] {9C6EAF}Burt (275): {FFFFFF}GOT 
+[17:44:31] {C800C8}EastSideBallasM4rio (283) (GLOBAL): {FECDEC}anyone sell 10 token 
+[17:44:31] {F0F0F0}SAS0KI (72): {FFFFFF}hi 
+[17:44:31] {C800C8}EastSideBallasM4rio (283) (GLOBAL): {FECDEC}selling ft cars: FBI Rancher, Feltzer, Ambulance 
+[17:44:31] {30FFFF}Chobas started race SA Endurance for $10,000
+[17:44:31] {30FFFF}Type /race to join
+[17:44:31] {30FFFF}Mukz9898 started deathmatch Just Business for $10,000
+[17:44:31] {30FFFF}Type /dm to join
+[17:44:31] {F0F0F0}Astrid (124): {FFFFFF}selling 17 ammo of mg  
+[17:44:31] {F0F0F0}Davoos (17): {FFFFFF}selling tokens /market 
+[17:44:31] {30FFFF}ToxicFazn started pool game for $10,000
+[17:44:31] {30FFFF}Type /pool to join
+[17:44:31] {F0F0F0}Kunnu_badshah (16): {FFFFFF}can we build muscles in this game? 
+[17:44:31] {BA9D7D}TheSheriff (20): {FFFFFF}crap 
+[17:44:31] {F0F0F0}BurgerGuy17 (307): {FFFFFF}no 
+[17:44:31] {9C6EAF}Caveman (261): {DCD5F6}nop 
+[17:44:35] {F0F0F0}SAS0KI (72): {FFFFFF}talk me plase 
+[17:44:38] {808080}Danny. (70): {FEF4CD}t 
+[17:44:39] {6AC4BF}Chobas (223): {DCD5F6}go /race /race /race 
+[17:44:40] {F0F0F0}BurgerGuy17 (307): {FFFFFF}very sad they should had added it 
+[17:44:41] {92C83E}[CLS]_Aboood_ started auction: 360 explosives with starting price $2,000,000
+[17:44:41] {92C83E}Make a bid: /bid
+[17:44:45] {F0F0F0}Jack$ (209): {FFFFFF}dont run evo 
+[17:44:50] {F0C850}Message for Burt (275): is it because i leaked the voice message? 
+[17:44:58] {FF7BC4}ovo (289): {D3ECF8}XDXD 
+[17:44:59] {9C6EAF}Caveman (261): {DCD5F6}buying 30 tokens  
+[17:45:04] {F0C850}Message from Burt (275): what do you think 
+[17:45:06] {FF8555}You can buy a new skin in the clothes shops
+[17:45:06] {8466E2}Daily objective for today: Earn 5 burglar skills
+[17:45:06] {F0F0F0}AsAs (208): {FFFFFF}a k 
+[17:45:06] {CB3694}Play 4 hours non-stop and you will unlock 10% bonus!
+[17:45:06] {F0F0F0}Jack$ (209): {FFFFFF}iam coming  
+[17:45:12] {92C83E}Auction is over
+[17:45:13] {F0C850}Message for Burt (275): i think thats the reason 
+[17:45:16] {F0F0F0}BurgerGuy17 (307): {FFFFFF}wait waht 
+[17:45:17] {FF7BC4}ovo (289): {D3ECF8}so funny XD 
+[17:45:18] {F0F0F0}BurgerGuy17 (307): {FFFFFF}my head gone 
+[17:45:21] {F0C850}Message for Burt (275): i thought i solved that 
+[17:45:27] {F0F0F0}DU30 (28) (GLOBAL): {DCD5F6}Selling Marina House:185 50days with CS /pm me 
+[17:45:27] {F0F0F0}BurgerGuy17 (307): {FFFFFF}wth admin 
+[17:45:29] {9C6EAF}Burt (275): {FFFFFF}Noo jellyfish 
+[17:45:32] {9C6EAF}Burt (275): {FFFFFF}:CC 
+[17:45:35] {F0F0F0}Jack$ (209): {FFFFFF}knock knock where him 
+[17:45:43] {8000FF}zizou (262): {FFFFFF}?? 
+[17:45:44] {F0F0F0}Rasputia77 (137): {FFFFFF}how much are 200k counterfeit chips 
+[17:45:50] {00FFFF}=Viltrum= (249): {FFFFFF}Wait my sens fixs is sooobadd 
+[17:45:51] {B26287}Ezio (60): {FECDEC}Rasputia77 200k 
+[17:45:52] {F0F0F0}_Jenny_ (294): {FFFFFF}Burt we will meet soon i am going to kill some cops 
+[17:45:52] {F0F0F0}BigZin (296): {FFFFFF}200k 
+[17:45:53] {9C6EAF}KingOfCheese (300): {FFDACC}200k 
+[17:45:55] {30FFFF}AsAs started poker game for $1,000,000
+[17:45:55] {30FFFF}Type /poker to join
+[17:45:59] {867D8D}There will be storage locker auction at Commerce in 5 minutes!
+[17:46:01] {30FFFF}Danny. started pool game for $490,000
+[17:46:01] {30FFFF}Type /pool to join
+[17:46:02] {F0F0F0}Rasputia77 (137): {FFFFFF}thank you 
+[17:46:02] {F0F0F0}zemmyy (159): {FFFFFF}mrsdgm /pmme real quick 
+[17:46:15] {B26287}Ezio (60): {FECDEC}Rasputia77 1 chip = 1$ 
+[17:46:17] {30FFFF}ovo started basejump Skyscraper for $10,000
+[17:46:17] {30FFFF}Type /basejump to join
+[17:46:22] {92C83E}estend started auction: 99 proximity mines with starting price $742,500
+[17:46:22] {92C83E}Make a bid: /bid
+[17:46:32] {FF7BC4}ovo (289): {D3ECF8} /basejump 
+[17:46:39] {F0C850}Message for Burt (275): well i want to thank you for all of the fun we had together 
+[17:46:47] {30FFFF}D3f4ult started survival Pershing Square
+[17:46:47] {30FFFF}Type /survival to join
+[17:46:49] {E03232}vesna1973 has been kicked for lags
+[17:46:50] {F0F0F0}_Jenny_ (294): {FFFFFF}Admin Nucleus is ramming me infront lspd 
+[17:46:54] {30FFFF}ovo started basejump Skyscraper for $10,000
+[17:46:54] {30FFFF}Type /basejump to join
+[17:46:56] {F0F0F0}_Jenny_ (294): {FFFFFF}Wrong id 
+[17:46:57] {F0C850}Message for Burt (275): even though i was an *** most of the time 
+[17:47:02] {FF8555}Most electronic goods stolen: iHateJewZ (2,878)
+[17:47:06] {F0F0F0}mrsdgm (255): {FFFFFF}xemmy 
+[17:47:09] {F0F0F0}mrsdgm (255): {FFFFFF}I was muted 
+[17:47:09] {92C83E}99 proximity mines have been sold to _ScOrP_ for $752,500
+[17:47:13] {92C83E}[SLIME]shadow started auction: Grenades (130) with starting price $200,000
+[17:47:13] {92C83E}Make a bid: /bid
+[17:47:14] {F0F0F0}zemmyy (159): {FFFFFF}oh mb 
+[17:47:17] {F0C850}Message from Burt (275): i understand that but i cant accept your chances anymore 
+[17:47:19] {30FFFF}Rene. started race 8-Track for $10,000
+[17:47:19] {30FFFF}Type /race to join
+[17:47:30] {F0C850}Message for Burt (275): you probably didnt even like me being in the group at all after
+[17:47:30] {F0C850}the voice message thing  
+[17:47:31] {8DCEA7}[SLIME]shadow (18) (GLOBAL): {FFFFFF}bid guys  
+[17:47:34] {F0C850}Message for Burt (275): which i understand 
+[17:47:38] {FF8000}Ogloc_Wrzosek (202): {FFFFFF}tttt 
+[17:47:43] {F0C850}Message for Burt (275): mhm 
+[17:47:45] {92C83E}Auction is over
+[17:47:58] {808080}Yes (189): {FFDACC}too many 
+[17:48:02] {808080}Yes (189): {FFDACC}idk where to look 
+[17:48:05] {30FFFF}AZE started golf game Avispa Country Club for $10,000
+[17:48:05] {30FFFF}Type /golf to join
+[17:48:09] {F0A000}[SLIME]shadow (18) started vote: cheetah or infernus 
+[17:48:09] {F0A000}Vote /yes or /no
+[17:48:10] {808080}Yes (189): {FFDACC}imma just get my rustler 
+[17:48:14] {F0F0F0}Jack$ (209): {FFFFFF}yeah i win 
+[17:48:17] {9C6EAF}Caveman (261): {DCD5F6}buying 10 tokens 
+[17:48:19] {FF8000}MinaTo (309): {FEF4CD}Yes no 
+[17:48:23] {F0F0F0}pix (198): {FFFFFF}iwant to e in an orginasation plese invite mee 
+[17:48:25] {9C6EAF}Burt (275): {FFFFFF}Ravikx_Playz sar sit inside 
+[17:48:26] {F0F0F0}Varenis (89): {FFFFFF}OR 
+[17:48:27] {C800C8}Sobek (34): {DCD5F6} /undertaker 
+[17:48:31] {808080}Yes (189): {FFDACC}wangdu still rotting in jail 
+[17:48:33] {BA9D7D}UzAiR (186): {DCD5F6}MinaTo 
+[17:48:35] {808080}Yes (189): {FFDACC}help your guy out 
+[17:48:36] {92C83E}vesna1973 started auction: Minigun (500 ammo) with starting price $7,500,000
+[17:48:36] {92C83E}Make a bid: /bid
+[17:48:39] {F0C850}Message for Burt (275): irl stuff just made me really mad and sad i should have taken a
+[17:48:39] {F0C850}break instead of being toxic 
+[17:48:39] {FF8000}MinaTo (309): {FEF4CD}no need 
+[17:48:40] {BA9D7D}UzAiR (186): {DCD5F6}shoes in ur feet 
+[17:48:40] {F0A000}Vote is over: cheetah or infernus  YES:2 NO:4
+[17:48:41] {E03232}GoLi_KaMi has been kicked for lags
+[17:48:46] {30FFFF}ovo started basejump Skyscraper for $10,000
+[17:48:46] {30FFFF}Type /basejump to join
+[17:48:46] {BA9D7D}UzAiR (186): {DCD5F6}hah 
+[17:48:48] {808080}Yes (189): {FFDACC}i wonder if you knew he cheated 
+[17:48:53] {808080}Yes (189): {FFDACC}surely not right 
+[17:48:55] {F0C850}Message for Burt (275): well its over now 
+[17:49:07] {98CBEA}_ScOrP_ (260): {FECDEC} /cheap 15k per? 
+[17:49:09] {F0F0F0}Wezo (304): {FFFFFF}sstart job 
+[17:49:10] {F0C850}Message from Burt (275): yea.. 
+[17:49:11] {F0F0F0}Jack$ (209): {FFFFFF}make event race Circumcision 
+[17:49:12] {808080}Yes (189): {FFDACC}its not like yall hanged out everyday :) 
+[17:49:16] {F79F7B}Ravikx_Playz (214): {FFFFFF}113 
+[17:49:17] {FF8000}MinaTo (309): {FEF4CD}I'd answer that but surely not to you. 
+[17:49:22] {00FFFF}KuroDIABLO (246): {FFFFFF}mad  
+[17:49:23] {FF7BC4}Bugajus (122): {FECDEC}t 
+[17:49:25] {30FFFF}Focus started race SF To LV for $150,000
+[17:49:25] {30FFFF}Type /race to join
+[17:49:26] {F79F7B}Ravikx_Playz (214): {FFFFFF}1 
+[17:49:27] {30FFFF}Rene. started race 8-Track for $10,000
+[17:49:27] {30FFFF}Type /race to join
+[17:49:31] {00FFFF}KuroDIABLO (246): {FFFFFF}crying for a drop 
+[17:49:32] {00FFFF}KuroDIABLO (246): {FFFFFF}xd 
+[17:49:34] {FF8000}MinaTo (309): {FEF4CD}Sure we hanged out everytime we were online here 
+[17:49:39] {F0F0F0}Kek (247): {FFFFFF}Make event Concentration camp 
+[17:49:39] {6AC4BF}Chobas (223): {DCD5F6}payout on truckers job 19200.... 
+[17:49:39] {808080}Yes (189): {FFDACC}i mean it wont make a difference if you say yes or no 
+[17:49:40] {F0C850}Message for Burt (275): i really feel like *** for what i made yall go through 
+[17:49:48] {808080}Yes (189): {FFDACC}u cant get banned for it 
+[17:49:52] {FF8000}MinaTo (309): {FEF4CD}Its not about the yes and no its about u 
+[17:49:54] {908E7A}Negan.lm9wd (45): {FEF4CD}Rene. stop crying sm pls 
+[17:49:59] {9C6EAF}Burt (275): {FFFFFF}screw this life 
+[17:50:00] {F0F0F0}Jack$ (209): {FFFFFF}again OnlyXit7 
+[17:50:00] {9C6EAF}Burt (275): {FFFFFF}bruh 
+[17:50:01] {808080}Yes (189): {FFDACC}but im yes 
+[17:50:01] {908E7A}Negan.lm9wd (45): {FEF4CD}Or play alone 
+[17:50:04] {30FFFF}Focus started race LV Ringroad for $150,000
+[17:50:04] {30FFFF}Type /race to join
+[17:50:06] {F0F0F0}Jack$ (209): {FFFFFF}ovo 
+[17:50:08] {F0F0F0}_Jenny_ (294): {FFFFFF}lol hahaha 
+[17:50:14] {2D6EB9}Obito (306): {D0FBF3}Burt get yourself arrested better 
+[17:50:18] {F0F0F0}Focus (41): {FFFFFF} /race /race 
+[17:50:20] {00FFFF}=Viltrum= (249): {FFFFFF}no dmg 
+[17:50:20] {F0C850}Message from Burt (275): i understand that 
+[17:50:22] {98CBEA}Rene. (256): {D3ECF8}Negan.lm9wd  bro using speed hack and u telling to stop crying bro get
+[17:50:22] {D3ECF8}skills pls 
+[17:50:22] {9C6EAF}Burt (275): {FFFFFF}Obito sir 
+[17:50:27] {9C6EAF}Caveman (261): {DCD5F6}buying 10 tokens 
+[17:50:27] {9C6EAF}Burt (275): {FFFFFF}i aint getting arrested again 
+[17:50:32] {FF8000}Zain (190): {D3ECF8}t\ 
+[17:50:32] {E03232}Jack$ has been kicked for lags
+[17:50:34] {C800C8}EastSideBallasM4rio (283) (GLOBAL): {FECDEC}selling ft cars: FBI Rancher, Feltzer, Ambulance 
+[17:50:34] {98CBEA}Rene. (256): {D3ECF8}but i am the one who will ban u 
+[17:50:41] {6AC4BF}Obito (306): {D0FBF3}laggy server 
+[17:50:43] {808080}Yes (189): {FFDACC}that was bad dude 
+[17:50:44] {9C6EAF}OnlyXit7 (269): {FFFFFF}ty 
+[17:50:45] {98CBEA}Rene. (256): {D3ECF8}if i don't do it am not man 
+[17:50:47] {30FFFF}Rene. started race 8-Track for $10,000
+[17:50:47] {30FFFF}Type /race to join
+[17:50:54] {30FFFF}Circumcision started race Kart Krash for $110,000
+[17:50:54] {30FFFF}Type /race to join
+[17:51:06] {867D8D}There will be storage locker auction at Angel Pine in 15 minutes!
+[17:51:06] {FF8555}You can drop stingers from Tampa to spike tires
+[17:51:06] {98CBEA}Rene. (256): {D3ECF8} /race guys 
+[17:51:10] {00FFFF}KuroDIABLO (246): {FFFFFF}rip 
+[17:51:11] {F0F0F0}pix (198): {FFFFFF}iwant to e in an orginasation plese invite mee 
+[17:51:12] {F0C850}Message for Burt (275): nevermind then, i dont wanna join the org i wont play samp
+[17:51:12] {F0C850}anymore 
